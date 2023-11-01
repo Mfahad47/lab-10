@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="BSCS23047_style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="BSCS23047_HOME.html">HOME</a></li>
+                <li><a href="BSCS23047_Products.html">PRODUCTS</a></li>
+                <li><a href="BSCS23047_Contact.html">ABOUT US</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section class="about-us">
+
+        <h1>Dell</h1>
+    </section>
+    <section class="check-products">
+        <img src="logo.png" width="500" length="700" />
+        <br>
+        <br>
+        <a href="BSCS23047_Products.html" class="btn">Check Our Products</a>
+        <br/>
+        <br />
+    </section>
+    <footer>
+        <p>Cell: +92 331 3306376</p>
+        <p>Email: info@dellstore.pk</p>
+        <p>Location:Karachi,Pakistan</p>
+    </footer>
+</body>
+</html>

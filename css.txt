@@ -1,0 +1,50 @@
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    background-color: deepskyblue;
+    color: black;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+    nav ul li {
+        display: center;
+        margin-right: 40px;
+    }
+
+section {
+    padding: 20px;
+}
+
+.about-us, .check-products, .contact {
+    text-align: center;
+}
+
+.product-box {
+    background-color: deepskyblue;
+    margin: 10px;
+    padding: 10px;
+    text-align: inherit;
+}
+
+
+.btn {
+    background-color: blue;
+    color: black;
+    padding: 10px 20px;
+    text-decoration: blink;
+    border-radius: 5px;
+}
+
+.contact img {
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+}

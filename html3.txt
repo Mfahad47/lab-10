@@ -1,0 +1,29 @@
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="BSCS23047_style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="BSCS23047_HOME.html">HOME</a></li>
+                <li><a href="BSCS23047_Products.html">PRODUCTS</a></li>
+                <li><a href="BSCS23047_Contact.html">ABOUT US</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section class="contact">
+        <div class="contact-box">
+            <p>Cell: +92 331 3306376</p>
+            <p>Email: info@dellstore.pk</p>
+            <p>Location:Karachi,Pakistan</p>
+            <a href="http://facebook.com" target="_blank">
+                <img src="facebook.png"   width="100"  length="100" alt="Facebook">
+            </a>
+            <a href="https://instagram.com" target="_blank">
+                <img src="insta.avif" width="100"  length="100" alt="Instagram">
+            </a>
+        </div>
+    </section>
+</body>
+</html>

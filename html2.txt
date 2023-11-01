@@ -1,0 +1,57 @@
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="BSCS23047_style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="BSCS23047_HOME.html">HOME</a></li>
+                <li><a href="BSCS23047_Products.html">PRODUCTS</a></li>
+                <li><a href="BSCS23047_Contact.html">ABOUT US</a></li>
+            </ul>
+        </nav>
+    </header>
+       
+         <section>
+        <img src="image 1.jpg" width="450" length="450" alt="Product 1">
+        <h2>Product 1</h2>
+        <p>Price: 55,000 pkr</p>
+        <p>Availability: In Stock</p>
+
+    </section>
+    <section>
+       
+         <img src="image 2.webp"   width="450" length="450"  alt="Product 2">
+        <h2>Product 2</h2>
+        <p>Price: 47,000 pkr</p>
+        <p>Availability: In Stock</p>
+
+    </section>
+
+    <section>
+        
+        <img src="image 3_.jpg" alt="Product 3">
+        <h2>Product 3</h2>
+        <p>Price: 70,000 pkr</p>
+        <p>Availability: In Stock</p>
+    </section>
+
+    <section>
+        
+        <img src="img 4.jpg" width="300" length="300"  alt="Product 4">
+        <h2>Product 4</h2>
+        <p>Price: 45,000 pkr</p>
+        <p>Availability: In Stock</p>
+    </section>
+    <section>
+        
+        <img src="img 5.jpg" width="300"  length="300" alt="Product 5">
+        <h2>Product 5</h2>
+        <p>Price: 30,000 pkr</p>
+        <p>Availability: In Stock</p>
+    </section>
+
+
+</body>
+</html>
